@@ -11,7 +11,7 @@ The BONKCard platform combines non-custodial architecture, automatic on-chain to
 3. Platform Overview
 BONKCard offers:
 
-Crypto Debit Cards: Issued to users who deposit $BONK. Available in both virtual and physical formats.
+Crypto Debit Cards: Issued to users who deposit $BONK. Available in both virtual format.
 
 Non-Custodial System: Users retain ownership of their funds at all times via wallet-based architecture.
 
@@ -26,8 +26,6 @@ Lowest-in-Class Fees: BONKCard charges a 0.5% transaction fee — a fraction of 
 4. Core Features
 4.1 Card Issuance
 Virtual Card: Issued instantly upon deposit; usable online and via mobile wallets.
-
-Physical Card: Optional shipment for global usage (contactless, chip, swipe, ATM-enabled).
 
 Card Issuance Fee: Fixed at $1 USD worth of $BONK — significantly below industry norms of $5–$10.
 
@@ -98,7 +96,7 @@ Timeline	Milestone
 Q3 2025	BONKCard Virtual Card Beta
 Weekly Burn Dashboard Launch
 Buyback Automation
-Q4 2025	Physical BONKCard Shipping
+Q4 2025	Physical BONKCard Launch
 Mobile Wallet Integrations
 Public Audit of Burn Process
 Q1 2026	BONKCard Mobile App Launch
